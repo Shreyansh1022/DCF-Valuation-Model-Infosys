@@ -21,7 +21,7 @@ Terminal Value estimation
 Enterprise valuation output
 Srecenshot 
 ![DCF Model](https://github.com/Shreyansh1022/DCF-Valuation-Model-Infosys/blob/d573563ae2719515b7b645f305a813ee4cffa5b3/Screenshot%202026-03-29%20204611.png)
-
+![DCF Model](https://github.com/Shreyansh1022/DCF-Valuation-Model-Infosys/blob/ff01959b179db0622ef2e6e6d7cc7df42bd8e7d7/Screenshot%202026-03-29%20222831.png)
 Output
 Estimated Enterprise Value: ₹ 358,983 Crores
 Discount Rate (WACC): 10%
@@ -36,5 +36,8 @@ Valuation Techniques
 Forecasting & Analysis
 Excel-based Modeling
 Valuation Techniques
+Files uploade
+-Excel Model( DCF Model Infosys 1.xlsx)
+-Project Report(Discounted Cash Flow valuation of Infosys.pdf)
 Forecasting & Analysis
 Excel-based Modeling
