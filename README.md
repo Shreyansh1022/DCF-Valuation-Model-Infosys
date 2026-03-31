@@ -19,6 +19,9 @@ Dynamic model linked with assumptions
 Calculation of Free Cash Flow (FCF)
 Terminal Value estimation
 Enterprise valuation output
+Srecenshot 
+![DCF Model](https://github.com/Shreyansh1022/DCF-Valuation-Model-Infosys/blob/d573563ae2719515b7b645f305a813ee4cffa5b3/Screenshot%202026-03-29%20204611.png)
+
 Output
 Estimated Enterprise Value: ₹ 358,983 Crores
 Discount Rate (WACC): 10%
